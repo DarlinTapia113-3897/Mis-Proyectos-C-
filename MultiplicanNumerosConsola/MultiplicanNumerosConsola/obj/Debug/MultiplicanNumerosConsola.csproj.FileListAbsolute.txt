@@ -1,0 +1,6 @@
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\bin\Debug\MultiplicanNumerosConsola.exe.config
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\obj\Debug\MultiplicanNumerosConsola.csprojResolveAssemblyReference.cache
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\bin\Debug\MultiplicanNumerosConsola.exe
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\bin\Debug\MultiplicanNumerosConsola.pdb
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\obj\Debug\MultiplicanNumerosConsola.exe
+c:\users\darli\documents\visual studio 2015\Projects\MultiplicanNumerosConsola\MultiplicanNumerosConsola\obj\Debug\MultiplicanNumerosConsola.pdb
